@@ -12,11 +12,8 @@ This project demonstrates how to fetch and display Bitcoin price information usi
 
 ### Installation
 
-1. Clone the repository:
+1. Download or clone the project from [https://github.com/HaydenSookchand/Lobby](https://github.com/HaydenSookchand/Lobby) to your local machine.
 
-```bash
-git clone https://github.com/haydensookchand/
-```
 
 2. Open the `index.html` file in your preferred web browser.
 

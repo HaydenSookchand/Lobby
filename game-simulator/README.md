@@ -1,5 +1,3 @@
----
-
 # Game Simulator
 
 Game Simulator is a web-based application that allows users to simulate sporting matches and view detailed statistics in real-time.
@@ -35,14 +33,8 @@ Game-simulator/
 
 ### Usage
 
-1. Download or clone the repository:
-
-   ```bash
-   git clone https://bitbucket.org/haydensookchand/gamesimulator/
-   ```
+1. Download or clone the project from [https://github.com/HaydenSookchand/Lobby](https://github.com/HaydenSookchand/Lobby) to your local machine.
 
 2. Open the `index.html` file in your preferred web browser.
 
 3. Explore the Game simulator, simulate matches, and enjoy the experience!
-
----

@@ -7,7 +7,7 @@ This project includes a simple HTML file for an Lobby. The Lobby features a logo
 
 ## Getting Started
 
-1. Download or clone the project to your local machine.
+1. Download or clone the project from [https://github.com/HaydenSookchand/Lobby](https://github.com/HaydenSookchand/Lobby) to your local machine.
 
 2. Open the HTML file (`index.html`) in your preferred text editor or integrated development environment (IDE).
 
